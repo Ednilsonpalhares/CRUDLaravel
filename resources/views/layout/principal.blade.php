@@ -36,7 +36,7 @@
         <div class="wrapper">
     <header class="main-header">
         <!-- Logo -->
-        <a href=" url 'home' " class="logo">
+        <a href="{{action('HomeController@index')}}" class="logo">
             <span class="logo-lg">Estoque</span>
         </a>
         <!-- Header Navbar: style can be found in header.less -->

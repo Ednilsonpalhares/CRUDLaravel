@@ -8,7 +8,6 @@ use Illuminate\Http\Request;
 
 //use Request;
 
-
 class ProdutoController extends Controller
 {
     public function lista(){
